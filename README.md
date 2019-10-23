@@ -23,3 +23,15 @@
  - https://www.youtube.com/watch?v=ds0cmAV-Yek 
  - http://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/
  - http://bilimneguzellan.net/en/follow-up-to-fourier-series-2/ 
+
+## DAY 3:
+- Completed Lesson 6, 7 and 8 
+- Looked deeper into Canny Edge Detection, hough tranform, Harris corner detection, ORB, Hamming Matrix, CNN Basics (n layers and feature visualisation). Hopefully will begin working on the first project tomorrow! 
+
+**Resources used:**
+- https://towardsdatascience.com/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f
+- https://www.youtube.com/watch?v=G019Av7XhGo
+- https://www.youtube.com/watch?v=kMK8DjdGtZo
+- https://www.youtube.com/watch?v=sHHvORwgFQ4
+- https://www.youtube.com/watch?v=uihBwtPIBxM
+- https://www.youtube.com/watch?v=sRFM5IEqR2w
