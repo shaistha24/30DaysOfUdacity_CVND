@@ -1,5 +1,5 @@
 # 30DaysOfUdacity_CVND
-#30DaysOfUdacity while pursuing the Computer Vision Nano Degree (SPAIC scholarship)
+#30DaysOfUdacity while pursuing the Computer Vision Nano Degree (SPAIC scholarship Phase - 2)
 
 ## DAY 1:
 -  Went through the course work lesson 4, 5 (Image Filter and Classifications , Convolutional Filters)
