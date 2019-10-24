@@ -35,3 +35,7 @@
 - https://www.youtube.com/watch?v=sHHvORwgFQ4
 - https://www.youtube.com/watch?v=uihBwtPIBxM
 - https://www.youtube.com/watch?v=sRFM5IEqR2w
+
+## DAY 4:
+- Completed Lesson 8 ( CNN and feature extraction and visualization)
+- Began working on Project 1: Facial Keypoint Recognition
