@@ -39,3 +39,17 @@
 ## DAY 4:
 - Completed Lesson 8 ( CNN and feature extraction and visualization)
 - Began working on Project 1: Facial Keypoint Recognition
+
+## DAY 5:
+- Working on Project 1
+- Revised the topics.
+
+## DAY 6:
+- Working on Project 1: part3 Facial Keypoint detection and complete pipeline
+- Looked into Activation Functions.
+
+**Resources used:**
+- https://cezannec.github.io/Convolutional_Neural_Networks/
+- https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
+- https://datascience.stackexchange.com/questions/14349/difference-of-activation-functions-in-neural-networks-in-general
+- https://towardsdatascience.com/comparison-of-activation-functions-for-deep-neural-networks-706ac4284c8a
