@@ -53,3 +53,7 @@
 - https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
 - https://datascience.stackexchange.com/questions/14349/difference-of-activation-functions-in-neural-networks-in-general
 - https://towardsdatascience.com/comparison-of-activation-functions-for-deep-neural-networks-706ac4284c8a
+
+##  DAY 7:
+- Looked more into activation functions ( for webinar prep!)
+- Looeked into DC rot Motor for internship prep!
