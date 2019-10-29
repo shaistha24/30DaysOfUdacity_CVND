@@ -57,3 +57,7 @@
 ##  DAY 7:
 - Looked more into activation functions ( for webinar prep!)
 - Looeked into DC rot Motor for internship prep!
+
+## DAY 8:
+-Just revised everything! 
+-Looked the video on Text sentiment analysis by Andrew  Trask!
