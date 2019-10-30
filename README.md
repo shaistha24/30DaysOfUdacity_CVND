@@ -59,5 +59,9 @@
 - Looeked into DC rot Motor for internship prep!
 
 ## DAY 8:
--Just revised everything! 
--Looked the video on Text sentiment analysis by Andrew  Trask!
+- Just revised everything! 
+- Looked the video on Text sentiment analysis by Andrew  Trask!
+
+## DAY 9:
+- Lesson 1 advanced CNN; 
+- revision from challenge course neural networks!
