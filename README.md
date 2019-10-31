@@ -65,3 +65,12 @@
 ## DAY 9:
 - Lesson 1 advanced CNN; 
 - revision from challenge course neural networks!
+
+## DAY 10:
+- Looked into RCNN
+
+**Resources**
+- https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
+- https://towardsdatascience.com/r-cnn-3a9beddfd55a
+- https://cs.stanford.edu/people/karpathy/rcnn/
+- https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html
