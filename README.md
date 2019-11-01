@@ -74,3 +74,6 @@
 - https://towardsdatascience.com/r-cnn-3a9beddfd55a
 - https://cs.stanford.edu/people/karpathy/rcnn/
 - https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html
+
+## DAY 11:
+- looking into DC rot motor health monitoring! for the upcoming internship proposal prep!
