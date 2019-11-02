@@ -77,3 +77,6 @@
 
 ## DAY 11:
 - looking into DC rot motor health monitoring! for the upcoming internship proposal prep!
+
+## DAY 12:
+- revised cnn and working on project 1 part 3 Hopefully will submit it tomorrow!
