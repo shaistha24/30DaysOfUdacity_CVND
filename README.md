@@ -80,3 +80,16 @@
 
 ## DAY 12:
 - revised cnn and working on project 1 part 3 Hopefully will submit it tomorrow!
+
+## DAY 13:
+- Worked on AI Blogging Fest prep, etc as team lead!
+- Read https://arxiv.org/pdf/1710.00977.pdf paper on Facial Key Point Detection!
+
+## DAY 14:
+- Researching for DC ROT MOTOR  for internship!
+- Came up with all the necessary disiccions to go with for Ai Blogging Fest!
+
+## DAY 15: 
+- Working on AI blogging fest
+- Looked into CNN 
+- went through optional course -  Cloud Computing Lesson 1
