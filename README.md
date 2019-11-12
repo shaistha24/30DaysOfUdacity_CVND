@@ -93,3 +93,29 @@
 - Working on AI blogging fest
 - Looked into CNN 
 - went through optional course -  Cloud Computing Lesson 1
+
+## DAY 16:
+- Created the Syfters AI Blogging Fest Publications.
+- Watched course vedio on cloud computing 
+- Day 1 of internship at TATA STEEL as Data Analyst Intern  via Prashikshan
+- Read about DC motors for Internship.
+
+## DAY 17:
+- Looked up a bit more on DC motor health monitoring and issues.
+- Read few medium blogs on facial keypoint recognition
+
+## DAY 18:
+- Read about CNN and facial keypoint recognition.
+- Looked into edge detection examples.
+
+## DAY 19:
+- Day 2 internship - trying to retreive the requisite data and look into database issues
+- Looked up on the bottleneck effects of i/o db
+- Made the poster for the Syfters AI Blogging Fest
+![POSTER]()
+
+## DAY 20:
+- First day of Syfters AI Blogging Fest : https://medium.com/syfters-ai-blogging-fest
+- Day 3 of Internship - arranging data for the analysis.
+- Find solution for SQL database i/o bottleneck issue.
+
